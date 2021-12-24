@@ -1,5 +1,7 @@
 # sites-importantes
 
+https://www.credly.com/earner/earned/share/0b832092-86b3-4020-9c62-1541128c472e
+
 https://sqliteonline.com/
 
 https://www.tutorialsteacher.com/sqlserver
